@@ -331,6 +331,9 @@ footer span {
   header .purchase {
     display: none;
   }
+  header .navbar-light .navbar-toggler {
+    margin-right: 20px;
+  }
   .mainbanner {
     height: 500px;
   }
