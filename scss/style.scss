@@ -403,4 +403,11 @@ footer
         top: -32px;
         left: 4px;
     }
+    .elements
+    {
+        .grid
+        {
+            grid-template-columns: auto auto auto;
+        }
+    }
 }
