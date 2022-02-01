@@ -358,5 +358,9 @@ footer span {
     top: -32px;
     left: 4px;
   }
+  .elements .grid {
+    -ms-grid-columns: auto auto auto;
+        grid-template-columns: auto auto auto;
+  }
 }
 /*# sourceMappingURL=style.css.map */
